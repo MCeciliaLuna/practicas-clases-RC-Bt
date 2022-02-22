@@ -1,0 +1,29 @@
+.accordion-size{
+  width: 50%;
+  /* display: flex; */
+}
+
+.bg-danger{
+  background-color: red !important;
+}
+
+.accordion-size2{
+  width: 25%;
+  height: 100px;
+  background-color: darkblue;
+}
+
+/* .class{
+  display: flex;
+  justify-content: center;
+}*/
+
+.sektion{
+  height: 100vh;
+}
+
+.caja{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
